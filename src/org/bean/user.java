@@ -1,4 +1,4 @@
-package org.javabeans;
+package org.bean;
 
 public class user {
 	public user() {
