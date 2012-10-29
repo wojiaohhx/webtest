@@ -2,8 +2,6 @@ package org.bean;
 
 import java.util.ArrayList;
 
-import bean.NoteBook;
-
 public class User {
 	private int id;
 	private String name;
